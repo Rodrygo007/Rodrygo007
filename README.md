@@ -1,3 +1,4 @@
+
 ### Olá! Eu sou o Rodrigo Rosa da Silva ✋
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrygo007&show_icons=true&theme=radical)
@@ -10,4 +11,5 @@
 " />
 <img align= "center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 " />
-<br>
+<div/>
+
